@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- LinkedIn: https://www.linkedin.com/in/damianfalcon/
-- Email: dfalcon005@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/damianfalcon/
+  - Email: dfalcon005@gmail.com
 
 <!---
 dfalcon005/dfalcon005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
